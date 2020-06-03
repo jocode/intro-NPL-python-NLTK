@@ -75,4 +75,4 @@ Estructuras básicas del lenguaje humano
 
 ## El contenido del desarrollo del curso se ubica en los siguientes Notebooks
 
-1. [C3. Configuración quickstart.ipynb](notebooks/C3. Configuración quickstart.ipynb)
+1. [C3. Configuración quickstart.ipynb](notebooks/C3. Configuración quickstart.ipynb)[C3. Configuración quickstart.ipynb](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/C3_Configuración_quickstart.ipynb)
