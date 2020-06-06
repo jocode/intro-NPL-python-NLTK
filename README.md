@@ -4,6 +4,11 @@ Aprende cómo los algoritmos pueden aprender a procesar el lenguaje humano con P
 
 - Elementos esenciales de la lingüistica y la programación, para poder construir modelos de Machine Learning y Deep Learning
 
+**NOTA**
+
+Para usar Latex en Colab o Jupyter éste recurso es muy importante a tener encuenta
+[Learn How to Write Markdown & LaTeX in The Jupyter Notebook](https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd)
+
 ## Introducción al NLP: Perspectivas y estados del arte
 
 NLP es el camino hacia el ideal de la IA
@@ -18,6 +23,8 @@ NLP es el camino hacia el ideal de la IA
 El **lenguaje** es un proxy o una medida de una inteligencia de un algoritmo.
 
 - Blade Runner, 1982 (Película recomendada)
+- [NLTK Corpora](http://www.nltk.org/nltk_data/)
+- [Expresión regular](https://es.wikipedia.org/wiki/Expresión_regular)
 
 ### Usos actuales del NLP
 
@@ -73,6 +80,24 @@ Estructuras básicas del lenguaje humano
 - **Corpus** Colección de textos.
 - **Corpora** Es una colección de colecciones de textos.
 
-## El contenido del desarrollo del curso se ubica en los siguientes Notebooks
+## :sunglasses: :point_right: El contenido del desarrollo del curso se ubica en los siguientes Notebooks
 
-1. [C3. Configuración quickstart.ipynb](notebooks/C3. Configuración quickstart.ipynb)[C3. Configuración quickstart.ipynb](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/C3_Configuración_quickstart.ipynb)
+1. :one: :blue_book: [C3. Configuración quickstart.ipynb](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C3_Configuración_quickstart.ipynb)
+
+2. :two: :green_book: [C4 Text Vocab Statistics](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C4_text_vocab_statistics.ipynb)
+
+## Qué es un N-grama?
+
+Es una secuencia de palabras
+
+- Bi-gramas (Estoy, aprendiendo)
+- Tri-gramas (Estoy, aprendiendo cosas)
+
+> Las colocaciones de una palabra son sentencias que indican los lugares que acostumbra a tomar esa palabra en el lenguaje (Sin seguir las reglas del lenguaje)...  
+> _Firth (1957), Modes in Meaninf - Paper in Linguistics_
+
+**Colocaciones**
+
+- Le dieron ganas de dormir
+  _vs_
+- Le introdujeron ganas de dormir
