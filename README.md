@@ -82,9 +82,15 @@ Estructuras básicas del lenguaje humano
 
 ## :sunglasses: :point_right: El contenido del desarrollo del curso se ubica en los siguientes Notebooks
 
-1. :one: :blue_book: [C3. Configuración quickstart.ipynb](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C3_Configuración_quickstart.ipynb)
+1. :one: :blue_book: [C3. Configuración quickstart](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C3_Configuración_quickstart.ipynb)
 
 2. :two: :green_book: [C4 Text Vocab Statistics](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C4_text_vocab_statistics.ipynb)
+
+3. :three: :ledger: [C5 Language with statistics](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C5_Language_with_statistics.ipynb)
+
+4. :four: :orange_book: [C6 Lexical Resources](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C6_Lexical_Resources.ipynb)
+
+5. :five: :closed_book: [C7 Processing raw text](https://github.com/jocode/intro-NPL-python-NLTK/blob/master/notebooks/C7_Processing_raw_text.ipynb)
 
 ## Qué es un N-grama?
 
@@ -101,3 +107,26 @@ Es una secuencia de palabras
 - Le dieron ganas de dormir
   _vs_
 - Le introdujeron ganas de dormir
+
+## Introducción a los recursos léxicos
+
+**¿Qué es un recurso léxico?**
+
+Colecciones de palabras o frases con meta-datos
+
+Los significados de las palabras son distintos
+
+- Le puedes decir que se _calle_ o me va a enloquecer...
+- Ten cuidado al cruzar la _calle_ porque el semáforo no funciona
+
+## Introducción a WordNet
+
+> Es una base de datos con caráter léxico para el idioma inglés. Se compone por conjuntos de sinónimos (**synsets**), cada uno expresando un concepto diferente. Diferentes synsets se relacionan por su relación semántica.
+
+**Cómo es un synset**
+
+Carro, Automovil, Auto, Coche = Vehículo motorizado de 4 ruedas, propupulsado por un motor.
+
+La base de datos de WordNet tiene una base de datos en forma de grafos.
+
+- **Hipónimo**: Conjunto se sinonimos
